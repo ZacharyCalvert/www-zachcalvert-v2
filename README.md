@@ -1,4 +1,7 @@
 
+# <a name="reactsetup">React Setup</a>
+
+- Prepare react baseline: ```npx create-react-app .```
 
 # <a name="awssteps">AWS Setup Steps</a>
 
